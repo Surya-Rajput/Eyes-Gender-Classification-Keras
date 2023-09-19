@@ -2,6 +2,9 @@
 
 This repository contains a project focused on implementing a gender classification classifier based on eye images using neural networks in the Keras framework. The goal of the project is to build and evaluate three different classification models to determine gender by analyzing eye images.
 
+## Dataset Link
+https://www.kaggle.com/datasets/pavelbiz/eyes-rtte 
+
 ## Task
 
 The project tasks are outlined as follows:
